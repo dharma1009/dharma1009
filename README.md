@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00F7FF;">Saila Satya Naga Durga Prasad</span>
+  Hi 👋, I'm <span style="color:#00F7FF;">Dharma Mokana</span>
 </h1>
 
 <h3 align="center">
