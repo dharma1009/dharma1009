@@ -42,12 +42,15 @@
 
 * Python
 * R
+* c
+* java basics
 
 ### 🌐 Frontend Development
 
 * HTML
 * CSS
 * JavaScript
+* react js
 
 ### ☁️ Cloud
 
@@ -64,12 +67,6 @@
 * MongoDB
 * SQL
 * MySQL
-
-### 🤖 AI / Machine Learning
-
-* Machine Learning
-* NLP
-* OpenAI
 
 ### 🛠️ Tools
 
@@ -169,24 +166,6 @@
 
 ---
 
-# 🎓 Education
-
-### 🎓 Bachelor of Technology — Artificial Intelligence and Machine Learning
-
-**Aditya Engineering College, Surampalem, AP**
-
-📅 August 2022 – April 2026
-📊 CGPA: **7.8**
-
-### 📚 Intermediate — MPC
-
-**Govt Junior College, Samalkota, AP**
-
-📅 June 2020 – April 2021
-📊 CGPA: **7.8**
-
----
-
 # 🏆 Certifications
 
 * ☁️ **AWS Certified Developer – Associate**
@@ -194,17 +173,6 @@
 * ☁️ **AWS Academy Graduate – Cloud Developing**
 * 🐍 **Fundamentals of Python Programming — Infosys**
 * 🤖 **Python Full Stack with Generative AI — Dhee Coding Lab**
-
----
-
-# 🌱 Currently Learning
-
-* 🇯🇵 Japanese — N5 Level
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 💻 Full Stack Development
-* 🐍 Advanced Python
-* ☁️ AWS Cloud Development
 
 ---
 
